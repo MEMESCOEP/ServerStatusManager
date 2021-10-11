@@ -1,0 +1,16 @@
+##SAMPLE! remove this line before using!##
+
+
+
+www.google.com|google
+www.microsoft.com|microsoft
+www.amazon.com|Amazon
+www.googleping.com|PingServer1
+www.massping.com|PingServer2
+www.backlinkping.com|PingServer3
+127.0.0.1|LocalPC
+10.0.0.1|Router
+8.8.8.8|Google Primary DNS
+4.4.4.4|Google Secondary DNS
+9.9.9.9|Quad9 Primary DNS
+149.112.112.112|Quad9 Secondary DNS
